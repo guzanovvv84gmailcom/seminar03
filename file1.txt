@@ -1,4 +1,4 @@
 file 1
-text 1
+text 1. changes on branch dev1.
 
 new modification (after revert)
