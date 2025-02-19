@@ -3,3 +3,4 @@
 ### App do:
 - first
 - second
+- new changes to gitignore
