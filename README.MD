@@ -1,6 +1,9 @@
-# Simple readme file
+# Super project
 
-### App do:
-- first
-- second
-- new changes to gitignore
+### App can do:
+- first thing
+- amazing second thing
+- awesome new killfeature
+
+---
+Thanks to all collaborators: <b>me, me and me!</b>
